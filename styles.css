@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('https://cdn.discordapp.com/attachments/469949394423250954/1153651028701495389/finish.jpg');
+    opacity: ;
+    
+}
+
+header {
+    background-image : url('https://cdn.discordapp.com/attachments/469949394423250954/1153661742690345071/minicensure.png');
+    
+    
+    padding: 5px;
+    text-align: center;
+}
+
+
+.list {
+    font-family: Arial, sans-serif;
+    color:aquamarine;
+}
+
+h2 {
+    display: inline-block;
+    color: #4c4848;
+    font-size: 24px;
+    background-color: #f2f2f2; 
+    padding: 10px 0px;
+    border: 2px solid #4c4848; 
+}
+
+nav {
+    display: inline-block;
+    padding: 2px 100px;
+    background-color: #bae25c;
+    text-decoration: none;
+    font-size: 30px;
+    border: 2px solid #4c4848;
+    border-radius: 10px; 
+}
+
+
+li {
+    font-size: 18px;
+    color: #333; 
+}
+
+p.style {
+    display: inline-block;
+    background-color: #c6e613;
+    padding: 5px; 
+    border: 2px solid #007bff; 
+    border-radius: 3px; 
+    opacity: 0.8; 
+}
+
+/* span {
+    border: 2px solid #000000; 
+    padding: 2px 5px; 
+    background-color: #3b3b3b;
+    opacity: 50;
+    border-radius: 4px; 
+    color: #000000; 
+} */
